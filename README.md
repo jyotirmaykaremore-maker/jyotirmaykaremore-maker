@@ -99,8 +99,8 @@ A web-based application developed to manage documents and images with user authe
   <a href="https://github.com/jyotirmaykaremore-maker">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="www.linkedin.com/in/jyotirmay-karemore-a41604319" />
+   <a href="www.linkedin.com/in/jyotirmay-karemore-a41604319">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
