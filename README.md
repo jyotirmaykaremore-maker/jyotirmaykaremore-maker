@@ -95,12 +95,14 @@ A web-based application developed to manage documents and images with user authe
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/jyotirmaykaremore-maker">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/jyotirmaykaremore-maker" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-   <a href="[www.linkedin.com/in/jyotirmay-karemore-a41604319](https://www.linkedin.com/in/jyotirmay-karemore-a41604319/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jyotirmay-karemore-a41604319/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
